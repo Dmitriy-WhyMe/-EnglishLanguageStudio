@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Gotham Pro';
+    src: local('Gotham Pro Light Italic'), local('Gotham-Pro-Light-Italic'),
+        url('GothamPro-LightItalic.woff2') format('woff2'),
+        url('GothamPro-LightItalic.woff') format('woff'),
+        url('GothamPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+  }
